@@ -1,6 +1,7 @@
 go file should not be used to file with out
 direcotry should not move on
 this is make to do nothging should be happen
+<<<<<<< HEAD
 this is main line should be entire path not accepting
 same way to go omsekharreddythimmireddy8940@gmail.com
 i should be learning this senario of all chenels 
@@ -8,3 +9,14 @@ not mentaly strees
 c,c++ java web techonlogy
 
 
+=======
+this is main line should be entire path not accepting 
+
+
+pls subscribe my channel with your own mobile
+
+
+
+I will learn loot of languges to improve my skill set 
+learnig
+c,c++ python 
