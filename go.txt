@@ -1,6 +1,13 @@
 go file should not be used to file with out
 direcotry should not move on
 this is make to do nothging should be happen
+<<<<<<< HEAD
 this is main line should be entire path not accepting
 same way to go omsekharreddythimmireddy8940@gmail.com
 
+=======
+this is main line should be entire path not accepting 
+
+
+pls subscribe my channel with your own mobile
+>>>>>>> main
